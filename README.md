@@ -15,3 +15,4 @@ Run with MongoDB Shell (`mongosh`):
 mongosh social_media.js
 ```
 Or execute [social_media.mongodb.js](file:///c:/Users/User/OneDrive/Desktop/lab5/social_media.mongodb.js) inside VS Code / MongoDB Playground.
+
